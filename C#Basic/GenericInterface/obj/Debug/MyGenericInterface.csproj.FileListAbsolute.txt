@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Git\MyC#\C#Basic\GenericInterface\bin\Debug\MyGenericInterface.exe.config
+C:\Users\user\Desktop\Git\MyC#\C#Basic\GenericInterface\bin\Debug\MyGenericInterface.exe
+C:\Users\user\Desktop\Git\MyC#\C#Basic\GenericInterface\bin\Debug\MyGenericInterface.pdb
+C:\Users\user\Desktop\Git\MyC#\C#Basic\GenericInterface\obj\Debug\MyGenericInterface.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Git\MyC#\C#Basic\GenericInterface\obj\Debug\MyGenericInterface.exe
+C:\Users\user\Desktop\Git\MyC#\C#Basic\GenericInterface\obj\Debug\MyGenericInterface.pdb
