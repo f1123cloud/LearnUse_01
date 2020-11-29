@@ -1,6 +1,0 @@
-C:\Users\user\Desktop\Git\MyC#\C#Basic\Generic4\bin\Debug\MyGeneric4.exe.config
-C:\Users\user\Desktop\Git\MyC#\C#Basic\Generic4\bin\Debug\MyGeneric4.exe
-C:\Users\user\Desktop\Git\MyC#\C#Basic\Generic4\bin\Debug\MyGeneric4.pdb
-C:\Users\user\Desktop\Git\MyC#\C#Basic\Generic4\obj\Debug\MyGeneric4.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\Git\MyC#\C#Basic\Generic4\obj\Debug\MyGeneric4.exe
-C:\Users\user\Desktop\Git\MyC#\C#Basic\Generic4\obj\Debug\MyGeneric4.pdb
