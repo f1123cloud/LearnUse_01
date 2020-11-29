@@ -17,7 +17,7 @@ namespace MyDelegate0
 	
 	Action和Func兩者差異
     Action是void不回傳值得委託
-    Func是有回傳值得委託*/
+    Func是有回傳值的委託*/
 
 	class Program
 	{

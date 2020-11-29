@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace MyGeneric1
 {
 	/*泛型
-	  避免成員和型膨脹*/
+	  避免成員和類膨脹*/
 
 	class Program
 	{

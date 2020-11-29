@@ -1,0 +1,7 @@
+C:\Program Files\Git\LearnUse_01\C#Basic\Abstract\bin\Debug\MyAbstract.exe.config
+C:\Program Files\Git\LearnUse_01\C#Basic\Abstract\bin\Debug\MyAbstract.exe
+C:\Program Files\Git\LearnUse_01\C#Basic\Abstract\bin\Debug\MyAbstract.pdb
+C:\Program Files\Git\LearnUse_01\C#Basic\Abstract\obj\Debug\MyAbstract.csprojAssemblyReference.cache
+C:\Program Files\Git\LearnUse_01\C#Basic\Abstract\obj\Debug\MyAbstract.csproj.CoreCompileInputs.cache
+C:\Program Files\Git\LearnUse_01\C#Basic\Abstract\obj\Debug\MyAbstract.exe
+C:\Program Files\Git\LearnUse_01\C#Basic\Abstract\obj\Debug\MyAbstract.pdb

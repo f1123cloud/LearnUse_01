@@ -72,6 +72,5 @@ namespace MyTryCatch
 			int result = a + b;
 			return result;
 		}
-
 	}
 }
